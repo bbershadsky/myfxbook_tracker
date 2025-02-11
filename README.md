@@ -1,6 +1,6 @@
 # Myfxbook Account Tracker Firefox / Chrome Browser Extension (WXT)
 
-]FIREFOX EXTENSION](https://addons.mozilla.org/en-US/firefox/addon/myfxbook-account-tracker/) from Mozilla 
+[LIVE FIREFOX EXTENSION](https://addons.mozilla.org/en-US/firefox/addon/myfxbook-account-tracker/) from Mozilla 
 
 Track your trading accounts conveniently without having to open MT4 or sift through myfxbook ads!
 
